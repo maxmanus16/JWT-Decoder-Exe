@@ -13,3 +13,4 @@ D:\Download\AADGuide-CodeSamples-master\AADGuide-CodeSamples-master\JwtCracker\o
 D:\Download\AADGuide-CodeSamples-master\AADGuide-CodeSamples-master\JwtCracker\obj\Debug\JwtCracker.csproj.CopyComplete
 D:\Download\AADGuide-CodeSamples-master\AADGuide-CodeSamples-master\JwtCracker\obj\Debug\JwtCracker.exe
 D:\Download\AADGuide-CodeSamples-master\AADGuide-CodeSamples-master\JwtCracker\obj\Debug\JwtCracker.pdb
+D:\Download\AADGuide-CodeSamples-master\AADGuide-CodeSamples-master\JwtCracker\obj\Debug\JwtCracker.csprojAssemblyReference.cache

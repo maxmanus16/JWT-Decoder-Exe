@@ -5,3 +5,5 @@
 #### JwtCracker 
 Platform: Windows Forms App  
 Troubleshooting / debug utility that decodes a JSON Web Token.
+
+![JWT Decode](http://prntscr.com/s6xcdm)
